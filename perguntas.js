@@ -21,3 +21,15 @@ criaCartao(
     'Como se diz oi em Inglês?',
     'Oi em ingles é HI (RAI)'
 )
+
+criaCartao(
+    'História',
+    'Quem foi o primeiro imperador do Brasil?',
+    'O primeiro imperador do Brasil foi Dom Pedro I'
+)
+
+criaCartao(
+    'Inglês',
+    'Qual é a tradução de "Good morning"?',
+    'A tradução de "Good morning" é "Bom dia"'
+)
